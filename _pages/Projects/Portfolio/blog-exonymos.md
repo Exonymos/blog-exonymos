@@ -3,7 +3,7 @@ title: "blog.exonymos.me"
 description: "Personal blog website powered by Jekyll and hosted on GitHub Pages."
 thumbnail: "/assets/img/thumbnail/blog-exonymos-me.png"
 projectpreview: "/assets/img/thumbnail/alt/blog-exonymos-me_alt.png"
-repository: "Exonymos/exonymos.github.io"
+repository: "Exonymos/blog-exonymos"
 website: "https://blog.exonymos.me"
 tags:
     - portfolio
@@ -11,7 +11,6 @@ tags:
     - jekyll
     - github pages
 date: "2025-03-03"
-bookmark: true
 ---
 
 ## Project Description

@@ -14,7 +14,6 @@ tags:
     - contentlayer
     - vercel
 date: "2024-08-25"
-published: true
 ---
 
 ## Project Description

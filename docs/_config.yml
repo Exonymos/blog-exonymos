@@ -1,22 +1,23 @@
-title: Example.com
-description: "Introduction for you blog"
+title: "Exonymos"
+description: "Simple and clean project showcase and blog site for exonymos."
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: exonymos@gmail.com
+github_username: exonymos
+twitter_username: exonymos
+instagram_username:
+linkedin_username:
+facebook_username:
+mastodon_username: Exonymos
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
-giscus_categoryId:
-goatcounter_code:
+giscus_repo: "Exonymos/projects"
+giscus_repoId: "R_kgDOJfktVA"
+giscus_category: "General Old"
+giscus_categoryId: "DIC_kwDOJfktVM4Cnfiu"
+goatcounter_code: exonymos
 google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.

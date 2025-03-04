@@ -9,7 +9,6 @@ tags:
     - portfolio
     - website
 date: "2023-02-02"
-published: true
 ---
 
 ## Project Description
