@@ -23,6 +23,7 @@ gem "kramdown-parser-gfm", "~> 1.1.0"
 gem "webrick", "~> 1.7.0"
 gem 'jekyll-loading-lazy', "~> 0.1.1"
 gem 'csv', '~> 3.0'
+gem 'faraday-retry', '~> 2.2'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
